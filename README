@@ -1,0 +1,11 @@
+Key map:
+
+	- R	: Restart game
+	- I	: Previous game
+	- O	: Next game
+	- K	: Previous library
+	- L	: Next library
+	-(arrow): Control character
+	- N	: Change username
+	- P	: Return to menu
+	- esc	: Exit program

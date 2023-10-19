@@ -1,0 +1,12 @@
+cmake*
+CMake*
+arcade
+*.o
+
+vgcore*
+
+*.so
+
+\.vscode/
+
+\.idea/
